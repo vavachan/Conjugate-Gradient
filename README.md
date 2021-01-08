@@ -7,7 +7,7 @@ soft_sphere.cpp	which contains the system specific code.
 
 Conjugate gradient algorithm is described in detail in 
 
-[Numerical Recipes][1]
+[Vetterling, William T., et al. Numerical Recipes Example Book (C++): The Art of Scientific Computing. Cambridge University Press, 2002.][1]
 
 
 [1]: http://numerical.recipes/
