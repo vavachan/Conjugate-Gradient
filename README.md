@@ -5,6 +5,5 @@ soft-spheres. The code is divided into two parts where the conj_grad.cpp is the 
 gradient part which contains no code specific to the system that is being optimized and 
 soft_sphere.cpp	which contains the system specific code. 
 
-Conjugate gradient algorithm is described in detail in [Numerical recipes 3rd edition][1]
-in chapter 10. 
+Conjugate gradient algorithm is described in detail in [Numerical recipes][1]
 [1]: http://numerical.recipes/
