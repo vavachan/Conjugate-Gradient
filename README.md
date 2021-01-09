@@ -10,4 +10,11 @@ Conjugate gradient algorithm is described in detail in
 [Vetterling, William T., et al. Numerical Recipes Example Book (C++): The Art of Scientific Computing. Cambridge University Press, 2002.][1]
 
 
+The conjugate gradient algorithm implemented in this code is the Polak-Ribiere variant and the line minimization implemented is not 
+described in the book.
+
+
+Author : Varghese Babu ( varghese@jncasr.ac.in )
+
+
 [1]: http://numerical.recipes/
